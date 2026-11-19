@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# segredos e configs locais
+.env
+
+# IDE / sistema
+.vscode/
+.idea/
+Thumbs.db
